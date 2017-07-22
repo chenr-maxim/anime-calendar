@@ -43,7 +43,7 @@ Linux:
 
 ## Running the App
 
-<li>ve --open</li>
+<li>ng serve --open</li>
 
 ## Development server
 
